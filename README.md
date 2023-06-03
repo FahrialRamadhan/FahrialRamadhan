@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Mahasiswa**
 
-- 🌱 I’m currently learning **RESPONSIVE WEBSITE**
+- 🌱 I’m currently learning **Responsive Webisite**
 
 - 👯 I’m looking to collaborate on **There isn't any**
 
 - 🤝 I’m looking for help with **Internet,Social Media**
 
-- 👨‍💻 All of my projects are available at [https://portofolio.fahrialgo10.repl.co](https://portofolio.fahrialgo10.repl.co) **Desktop Only** **NOT RESPONSIVE**
+- 👨‍💻 All of my projects are available at [https://portofolio.fahrialgo10.repl.co](https://portofolio.fahrialgo10.repl.co) **Desktop Only** **Not Responsive**
 
 - 📝 I regularly write articles on [https://fahrialaufaramadhan.blogspot.com/](https://fahrialaufaramadhan.blogspot.com/)
 
