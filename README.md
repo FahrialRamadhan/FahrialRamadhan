@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://fahrialramadhan.github.io)
 <h1 align="center">Hi 👋, I'm Fahrial Aufa Ramadhan</h1>
 <h3 align="center">Web Developer || Network Engineer || IT support I am a student of the Telkom Purwokerto Institute of Technology</h3>
-<img align="kanan" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img alt="Coding" width="400" align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrialramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="fahrialramadhan" /> </p>
 
