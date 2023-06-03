@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Mahasiswa**
 
-- 🌱 I’m currently learning **Javascript DOM**
+- 🌱 I’m currently learning **RESPONSIVE WEBSITE**
 
 - 👯 I’m looking to collaborate on **There isn't any**
 
 - 🤝 I’m looking for help with **Internet,Social Media**
 
-- 👨‍💻 All of my projects are available at [https://portofolio.fahrialgo10.repl.co](https://portofolio.fahrialgo10.repl.co)
+- 👨‍💻 All of my projects are available at [https://portofolio.fahrialgo10.repl.co](https://portofolio.fahrialgo10.repl.co) **Desktop Only** **NOT RESPONSIVE**
 
 - 📝 I regularly write articles on [https://fahrialaufaramadhan.blogspot.com/](https://fahrialaufaramadhan.blogspot.com/)
 
-- 💬 Ask me about **aya freshgraduate lulusan Teknik komputer dan jaringan, mampu berkerja secara individu maupun kelompok bekerja dengan cepat,Up to Date terhadap perkembangan teknologi dan informasi saat ini saya berusia 18 tahun, walaupun umur saya terbilang muda tapi saya sudah memiliki beberapa skill dapat di andalkan di era 4.0 masa ini, network fundamental,Fronted web Desain, dan beberapa skill editing video seperti Adobe Premier Pro dan Capcut**
+- 💬 Ask me about **saya freshgraduate lulusan Teknik komputer dan jaringan, mampu berkerja secara individu maupun kelompok bekerja dengan cepat,Up to Date terhadap perkembangan teknologi dan informasi saat ini saya berusia 18 tahun, walaupun umur saya terbilang muda tapi saya sudah memiliki beberapa skill dapat di andalkan di era 4.0 masa ini, network fundamental,Fronted web Desain, dan beberapa skill editing video seperti Adobe Premier Pro dan Capcut**
 
 - 📫 How to reach me **fahrialg.o10@gmail.com**
 
