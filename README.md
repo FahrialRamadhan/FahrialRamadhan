@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://fahrialaufaramadhan.blogspot.com/](https://fahrialaufaramadhan.blogspot.com/)
 
-- 💬 Ask me about **saya freshgraduate lulusan Teknik komputer dan jaringan, mampu berkerja secara individu maupun kelompok bekerja dengan cepat,Up to Date terhadap perkembangan teknologi dan informasi saat ini saya berusia 18 tahun, walaupun umur saya terbilang muda tapi saya sudah memiliki beberapa skill dapat di andalkan di era 4.0 masa ini, network fundamental,Fronted web Desain, dan beberapa skill editing video seperti Adobe Premier Pro dan Capcut**
+- 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **fahrialg.o10@gmail.com**
 
