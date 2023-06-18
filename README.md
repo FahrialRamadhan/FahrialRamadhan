@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Responsive Webisite**
 
-- 👯 I’m looking to collaborate on **There isn't any**
+- 👯 I’m looking to collaborate on **Fronted Developer**
 
 - 🤝 I’m looking for help with **Internet,Social Media**
 
